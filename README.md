@@ -5,11 +5,10 @@
 
 ### Here are some ideas to get you started:
 
-- 🔭 I’m currently working on SamsungSDS
-- 🔭 I worked on Icomm
-- 🌱 I’m currently learning Ha Noi university of science and technology
-- 👯 I’m looking to collaborate on MSOLAB
+- 🔭 I’m currently working at SamsungSDS
+- 🔭 I worked at Icomm 
+- 🌱 I graduated from Ha Noi university of science and technology
+- 👯 I was a member of MSOLAB 
 - 💬 Ask me about haok61bkhn@gmail.com
-- 📫 How to reach me: 0336554550
 
 
